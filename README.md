@@ -1,4 +1,4 @@
 
-#Certified
-#ITIL® Foundation 
-#ORACLE SUN| HP |VMware|DELL EMC|QUANTUM|NetApp|Veritas
+Certified
+ITIL® Foundation 
+ORACLE SUN| HP |VMware|DELL EMC|QUANTUM|NetApp|Veritas
