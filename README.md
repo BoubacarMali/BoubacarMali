@@ -1,6 +1,56 @@
 
-Certified
-ITIL® Foundation 
-|ORACLE SUN| HP |VMware|DELL EMC|QUANTUM|NetApp|Veritas
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio GitHub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Accueil</a></li>
+                <li><a href="#projects">Projets</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-Responsable technique des systèmes d'information expérimenté avec plus de 07 ans d'expérience dans la gestion et l'optimisation des systèmes d'information.  Expert en alignement des technologies avec les objectifs stratégiques de  l'entreprise, je possède une solide expérience dans la gestion de projets, la  planification stratégique, l'amélioration des processus et la gestion des équipes.  Fortes compétences en leadership, en communication et en gestion du  changement. 
+    <section id="home" class="hero">
+        <h1>Bienvenue sur mon Portfolio GitHub</h1>
+        <p>Je suis [Votre Nom], un(e) développeur(euse) passionné(e) par [vos compétences principales].</p>
+        <a href="#projects" class="btn">Voir mes projets</a>
+    </section>
+
+    <section id="projects">
+        <h2>Mes Projets</h2>
+        <div class="project-list">
+            <div class="project">
+                <h3>Projet 1</h3>
+                <p>Une brève description de ce projet.</p>
+                <a href="https://github.com/votre-compte/projet1" target="_blank">Voir sur GitHub</a>
+            </div>
+            <div class="project">
+                <h3>Projet 2</h3>
+                <p>Une brève description de ce projet.</p>
+                <a href="https://github.com/votre-compte/projet2" target="_blank">Voir sur GitHub</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Vous pouvez me contacter via :</p>
+        <ul>
+            <li>Email : <a href="mailto:votre-email@example.com">votre-email@example.com</a></li>
+            <li>GitHub : <a href="https://github.com/votre-compte" target="_blank">https://github.com/votre-compte</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 - Conçu par [Votre Nom]</p>
+    </footer>
+</body>
+</html>
